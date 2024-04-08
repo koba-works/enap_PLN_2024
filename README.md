@@ -2,6 +2,8 @@
 
 O curso de **Processamento de Linguagem Natural** da Escola Nacional de Administração Pública (ENAP) tem como objetivo principal o estudo de estratégias e a construção de modelos inteligentes para viabilizar o processamento e entendimento de línguas naturais pelos computadores modernos.
 
+Este é um fork, recomendo checar o original [https://github.com/](https://github.com/giacicunb/enap_pln2024) pelo @giacicunb
+
 ## Ementa
 
 O curso está dividido nos seguintes módulos:
